@@ -1,0 +1,6 @@
+let variable =1+1
+console.log(variable)
+let nombre = "benjamin"
+let space = " "
+let nombreCompleto= nombre + space + "andrea"
+console.log(nombreCompleto)
